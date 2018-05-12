@@ -1,0 +1,42 @@
+_repo: Lachesis-Lapponica--13-A-Tour-in-Lapland-Volume-2_36059
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Troilius, Charles
+    gutenberg_agent_id: '37220'
+    url: http://www.gutenberg.org/2009/agents/37220
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linné, Carl von
+    alias: Linnaeus, Carolus
+    birthdate: 1707
+    deathdate: 1778
+    gutenberg_agent_id: '9516'
+    url: http://www.gutenberg.org/2009/agents/9516
+    wikipedia: http://en.wikipedia.org/wiki/Carolus_Linnaeus
+  editor:
+    agent_name: Smith, James Edward
+    alias: Smith, Sir James Edward
+    birthdate: 1759
+    deathdate: 1828
+    gutenberg_agent_id: '37219'
+    url: http://www.gutenberg.org/2009/agents/37219
+    wikipedia: http://en.wikipedia.org/wiki/James_Edward_Smith
+description: ''
+gutenberg_issued: '2011-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lapland -- Description and travel'
+- !lcc 'DL'
+- !lcsh 'Natural history -- Lapland'
+title: Lachesis Lapponica; Or, A Tour in Lapland, Volume 2
+url: http://www.gutenberg.org/ebooks/36059
